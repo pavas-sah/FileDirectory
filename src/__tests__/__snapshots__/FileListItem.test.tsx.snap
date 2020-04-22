@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="sc-AxjAm jIgIEX"
+  data-testid="FileListItem"
+>
+  <span
+    data-testid="icon"
+  >
+     
+    <img
+      alt="iconAlt"
+      src="iconLocation"
+    />
+  </span>
+  <span
+    className="column"
+    data-testid="name"
+  >
+    file
+  </span>
+  <span
+    data-testid="msg"
+  >
+    message
+  </span>
+  <span
+    data-testid="time"
+  >
+    9 years ago
+  </span>
+</div>
+`;

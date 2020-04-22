@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`File Icon Functional component matches snapshot 1`] = `
+<span
+  data-testid="icon"
+>
+   
+  <img
+    alt="alternate message"
+    src="some url"
+  />
+</span>
+`;
