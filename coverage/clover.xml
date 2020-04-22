@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1587541378982" clover="3.2.0">
+  <project timestamp="1587541378982" name="All files">
+    <metrics statements="44" coveredstatements="44" conditionals="7" coveredconditionals="7" methods="8" coveredmethods="8" elements="59" coveredelements="59" complexity="0" loc="44" ncloc="44" packages="1" files="6" classes="6"/>
+    <file name="CommitMessage.tsx" path="/home/afour/React Projects/file-directory-app/src/components/CommitMessage.tsx">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="9" count="18" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+    </file>
+    <file name="FileIcon.tsx" path="/home/afour/React Projects/file-directory-app/src/components/FileIcon.tsx">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="3" type="stmt"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="11" count="18" type="stmt"/>
+      <line num="16" count="3" type="stmt"/>
+    </file>
+    <file name="FileList.tsx" path="/home/afour/React Projects/file-directory-app/src/components/FileList.tsx">
+      <metrics statements="10" coveredstatements="10" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="30" count="2" type="cond" truecount="3" falsecount="0"/>
+      <line num="40" count="2" type="stmt"/>
+      <line num="42" count="14" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="51" count="2" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+    </file>
+    <file name="FileListItem.tsx" path="/home/afour/React Projects/file-directory-app/src/components/FileListItem.tsx">
+      <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="11" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="20" count="16" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+    </file>
+    <file name="FileName.tsx" path="/home/afour/React Projects/file-directory-app/src/components/FileName.tsx">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="9" count="18" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+    </file>
+    <file name="TimeDuration.tsx" path="/home/afour/React Projects/file-directory-app/src/components/TimeDuration.tsx">
+      <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="3" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="10" count="3" type="stmt"/>
+      <line num="17" count="3" type="stmt"/>
+      <line num="18" count="18" type="stmt"/>
+      <line num="19" count="18" type="stmt"/>
+      <line num="20" count="18" type="stmt"/>
+      <line num="21" count="18" type="stmt"/>
+      <line num="23" count="18" type="stmt"/>
+      <line num="31" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
