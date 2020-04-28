@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test File List Item matches snapshot 1`] = `
+<div
+  className="sc-AxjAm jIgIEX"
+>
+  <img
+    alt="iconAlt"
+    src="iconLocation"
+  />
+  file
+  message
+  9 years ago
+</div>
+`;

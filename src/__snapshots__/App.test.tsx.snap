@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Function matches snapshot 1`] = `
+<div
+  className="container"
+>
+  <span
+    className="collection-item"
+  >
+    <div
+      className="sc-AxjAm jIgIEX"
+    >
+      <img
+        alt="Html"
+        src={Object {}}
+      />
+      Html
+      Learn HTML For Beginners With Free Book 
+      19 years ago
+    </div>
+  </span>
+  <span
+    className="collection-item"
+  >
+    <div
+      className="sc-AxjAm jIgIEX"
+    >
+      <img
+        alt="Html"
+        src={Object {}}
+      />
+      CSS
+      Learn CSS For Beginners With Free Book 
+      23 years ago
+    </div>
+  </span>
+  <span
+    className="collection-item"
+  >
+    <div
+      className="sc-AxjAm jIgIEX"
+    >
+      <img
+        alt="Html"
+        src={Object {}}
+      />
+      Html
+      Learn JS For Beginners With Free Book 
+      10 years ago
+    </div>
+  </span>
+  <span
+    className="collection-item"
+  >
+    <div
+      className="sc-AxjAm jIgIEX"
+    >
+      <img
+        alt="Html"
+        src={Object {}}
+      />
+      Html
+      Learn JS For Beginners With Free Book 
+      7 months ago
+    </div>
+  </span>
+  <span
+    className="collection-item"
+  >
+    <div
+      className="sc-AxjAm jIgIEX"
+    >
+      <img
+        alt="Html"
+        src={Object {}}
+      />
+      Html
+      Learn JS For Beginners With Free Book 
+      1 year ago
+    </div>
+  </span>
+  <span
+    className="collection-item"
+  >
+    <div
+      className="sc-AxjAm jIgIEX"
+    >
+      <img
+        alt="Html"
+        src={Object {}}
+      />
+      Html
+      Learn JS For Beginners With Free Book 
+      1 month ago
+    </div>
+  </span>
+  <span
+    className="collection-item"
+  >
+    <div
+      className="sc-AxjAm jIgIEX"
+    >
+      <img
+        alt="Html"
+        src={Object {}}
+      />
+      Html
+      Learn JS For Beginners With Free Book 
+      9 years after
+    </div>
+  </span>
+</div>
+`;
